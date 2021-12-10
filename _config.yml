@@ -84,7 +84,7 @@ author:
   avatar           : "Makkunda_photo.jpeg"
   bio              : "Research Fellow at Wadhwani AI"
   location         : "New Delhi"
-  employer         : "https://www.wadhwaniai.org"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=M_a8AH4AAAAJ&hl=en"
   email            : "makkundasharma@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/makkunda-sharma-23960814a/"
+  linkedin         : "makkunda-sharma-23960814a/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -181,12 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
