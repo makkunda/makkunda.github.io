@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=M_a8AH4AAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Miscellaneous"
-    url: /misc/    
+  # - title: "Miscellaneous"
+  #   url: /misc/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -19,7 +19,7 @@ main:
   #   url: /year-archive/
     
   # - title: "CV"
-  #   url: /cv/
+  #   url: /files/resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
